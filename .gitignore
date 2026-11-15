@@ -1,0 +1,5 @@
+# Ficheiros de ROM e backups: manter fora do controlo de versões.
+*.gb
+*.gbc
+*.gba
+*.bin
